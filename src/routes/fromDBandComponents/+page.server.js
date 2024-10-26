@@ -9,7 +9,7 @@ export async function load() {
         containersize,
         datecontainershipped
     FROM
-        containersz`;
+        containers`;
 
     console.log({rows});
 
