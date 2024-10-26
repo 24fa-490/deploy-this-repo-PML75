@@ -5,7 +5,7 @@ export async function load() {
     const rows = await sql`
     SELECT
         containernumber,
-        nameOfship,
+        nameofship,
         containersize,
         datecontainershipped
     FROM
