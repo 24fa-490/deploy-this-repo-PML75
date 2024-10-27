@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-pml-75-c2ui-7tdzc3x8t-pml75s-projects.vercel.app/)](https://deploy-this-repo-pml-75-jhyd.vercel.app
+https://deploy-this-repo-pml-75-jhyd.vercel.app
 
 
